@@ -3,6 +3,13 @@ import React, {Component} from 'react';
 
 //TEST THIS FILE
 
+/*
+
+Next Steps 3/18: 
+- Find form of binary audio data - see if workable
+
+*/
+
 export default class Detector extends Component{
     constructor(){
         super();
